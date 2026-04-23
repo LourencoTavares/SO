@@ -1,0 +1,101 @@
+WORKER[0]: started (levels_dir='levels')
+WORKER[0]: waiting request
+WORKER[3]: started (levels_dir='levels')
+WORKER[3]: waiting request
+WORKER[5]: started (levels_dir='levels')
+WORKER[5]: waiting request
+WORKER[2]: started (levels_dir='levels')
+WORKER[4]: started (levels_dir='levels')
+WORKER[4]: waiting request
+WORKER[1]: started (levels_dir='levels')
+WORKER[1]: waiting request
+WORKER[2]: waiting request
+WORKER[0]: got req='/tmp/1_request' notif='/tmp/1_notification'
+WORKER[0]: starting run_session
+DIM = 6 x 6
+TEMPO = 300
+MON file: levels/1.m
+Line: oooooo
+Line: oooooX
+Line: oooooX
+Line: oooo@X
+Line: XooooX
+Line: XXXoXX
+Ghost passo: 1
+Ghost Pos = 1 x 1
+WORKER[3]: got req='/tmp/2_request' notif='/tmp/2_notification'
+WORKER[3]: starting run_session
+DIM = 6 x 6
+TEMPO = 300
+MON file: levels/1.m
+Line: oooooo
+Line: oooooX
+Line: oooooX
+Line: oooo@X
+Line: XooooX
+Line: XXXoXX
+Ghost passo: 1
+Ghost Pos = 1 x 1
+WORKER[5]: got req='/tmp/6_request' notif='/tmp/6_notification'
+WORKER[5]: starting run_session
+DIM = 6 x 6
+TEMPO = 300
+MON file: levels/1.m
+Line: oooooo
+Line: oooooX
+Line: oooooX
+Line: oooo@X
+Line: XooooX
+Line: XXXoXX
+Ghost passo: 1
+Ghost Pos = 1 x 1
+WORKER[4]: got req='/tmp/5_request' notif='/tmp/5_notification'
+WORKER[4]: starting run_session
+DIM = 6 x 6
+TEMPO = 300
+MON file: levels/1.m
+Line: oooooo
+Line: oooooX
+Line: oooooX
+Line: oooo@X
+Line: XooooX
+Line: XXXoXX
+Ghost passo: 1
+Ghost Pos = 1 x 1
+WORKER[1]: got req='/tmp/4_request' notif='/tmp/4_notification'
+WORKER[1]: starting run_session
+DIM = 6 x 6
+TEMPO = 300
+MON file: levels/1.m
+Line: oooooo
+Line: oooooX
+Line: oooooX
+Line: oooo@X
+Line: XooooX
+Line: XXXoXX
+Ghost passo: 1
+Ghost Pos = 1 x 1
+WORKER[2]: got req='/tmp/3_request' notif='/tmp/3_notification'
+WORKER[2]: starting run_session
+DIM = 6 x 6
+TEMPO = 300
+MON file: levels/1.m
+Line: oooooo
+Line: oooooX
+Line: oooooX
+Line: oooo@X
+Line: XooooX
+Line: XXXoXX
+Ghost passo: 1
+Ghost Pos = 1 x 1
+Killing 0 pacman
+
+Killing 0 pacman
+
+WORKER[2]: run_session returned
+WORKER[2]: session closed; remaining=5
+WORKER[2]: waiting request
+Killing 0 pacman
+
+Killing 0 pacman
+
